@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Frond end developer and odoo developer in Petra Software
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a HTI Minya  graduted, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS and anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://omarhassan.netlify.app/ to see some of the projects I've worked on.
